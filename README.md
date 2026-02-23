@@ -90,7 +90,4 @@ Construir base sólida em redes e segurança, evoluindo para certificações com
 <a href="mailto:jp.redes@outlook.com.br">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/SEULINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 </p>
