@@ -1,5 +1,3 @@
-<h1 align="center">SEU NOME</h1>
-
 <p align="center">
 Estudante de Redes de Computadores
 </p>
