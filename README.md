@@ -80,56 +80,7 @@ Interesse em ambientes corporativos, troubleshooting e arquitetura de redes.
 
 ## Objetivo
 
-Construir base sólida em redes e segurança, evoluindo para certificações como CCNA e atuação profissional em infraestrutura.<img src="https://img.shields.io/badge/PowerShell-2E6DBF?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
----
-
-## Sistemas Operacionais
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
----
-
-## Ferramentas e Infraestrutura
-
-<p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu&logoColor=white" />
-<img src="https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logo=snort&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-</p>
-
----
-
-## Projetos Acadêmicos e Laboratórios
-
-- Configuração de servidor Linux com serviços web e SSH  
-- Implementação de VLANs em ambiente virtualizado  
-- Análise de tráfego com Wireshark  
-- Simulação de ataques e detecção com IDS  
-- Criação de scripts para automação de tarefas administrativas  
-
----
-
-## Estatísticas
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JP-Redes&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Redes&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## Objetivo Profissional
-
-Desenvolver competência técnica sólida em infraestrutura de redes, segurança e automação, com foco em ambientes corporativos e boas práticas de arquitetura.
+Construir base sólida em redes e segurança, evoluindo para certificações como CCNA e atuação profissional em infraestrutura.
 
 ---
 
