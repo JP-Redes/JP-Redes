@@ -8,16 +8,19 @@
 
 <div align="center">
 
+
+```bash
+> whoami
+João Pedro
+
+> focus
+Infrastructure • Routing • Switching • Security Labs
+
+> environment
+Linux • Virtualized Networks • Simulation
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ SYSTEM PROFILE                               ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ Focus      → Network Infrastructure           ┃
-┃ Domain     → Segmentation & Routing           ┃
-┃ Practice   → Lab-Based Learning               ┃
-┃ Principle  → Stability before Complexity      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+
+</div>
 
 </div>
 
